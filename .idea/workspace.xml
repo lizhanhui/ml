@@ -209,6 +209,7 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -531,12 +532,12 @@
       <changelist id="26de2bf1-209f-4f1a-b1b4-23a6838d3700" name="Default" comment="" />
       <created>1406209905729</created>
       <updated>1406209905729</updated>
-      <workItem from="1406209907628" duration="1190000" />
+      <workItem from="1406209907628" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1190000" />
+    <option name="totallyTimeSpent" value="1296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="802" extended-state="6" />
