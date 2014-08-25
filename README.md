@@ -1,8 +1,8 @@
 ml
 ==
 
-编辑my.ini， 第八行：
-[mysqld]
+编辑my.ini， [mysqld]下面一行，增加如下内容：
+
 explicit_defaults_for_timestamp=true
 
 cmd里面执行：
